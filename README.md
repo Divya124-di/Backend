@@ -8,6 +8,10 @@ This is a RESTful API for managing user profiles with authentication.
 - Authentication: JWT
 
 ## 📌 Setup Instructions
+
+### 1 Unzip the Project Files
+If you downloaded the project as a ZIP file, **extract** it before proceeding.
+
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/backend-profile-api.git
